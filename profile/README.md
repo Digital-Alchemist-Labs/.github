@@ -1,4 +1,4 @@
-# SignGPT
+# Digital Alchemist Labs
 
 <img src="https://github.com/SignGPT-pro/.github/blob/main/imgs/sign%20gpt%20(upscale).png" alt="logo" width="500"/>
 
